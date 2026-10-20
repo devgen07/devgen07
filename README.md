@@ -6,9 +6,9 @@
 
 Building fast, accessible, and user-friendly web experiences.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-1iza.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnakkmrs/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devgen07)
 
 </div>
 
@@ -60,12 +60,12 @@ An online life-learning course platform with an admin dashboard for managing use
 <div align="center">
 
 <!-- Replace YOUR-USERNAME in these URLs with your GitHub username. -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&theme=tokyonight" alt="Most used programming languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=devgen07&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgen07&layout=compact&hide_border=true&theme=tokyonight" alt="Most used programming languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=devgen07&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
@@ -83,9 +83,9 @@ An online life-learning course platform with an admin dashboard for managing use
 
 I'm happy to connect with developers, collaborate on projects, and learn from the community.
 
-- LinkedIn: [Your LinkedIn profile](https://www.linkedin.com/in/your-linkedin/)
-- Portfolio: [Your portfolio](https://your-portfolio-url.com)
-- Email: `your.email@example.com`
+- LinkedIn: [Your LinkedIn profile](https://www.linkedin.com/in/krishnakkmrs/)
+- Portfolio: [Your portfolio](https://my-portfolio-1iza.vercel.app/)
+- Email: `krishna.devgen@gmail.com`
 
 ---
 
