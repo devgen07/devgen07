@@ -83,8 +83,8 @@ An online life-learning course platform with an admin dashboard for managing use
 
 I'm happy to connect with developers, collaborate on projects, and learn from the community.
 
-- LinkedIn: [Your LinkedIn profile](https://www.linkedin.com/in/krishnakkmrs/)
-- Portfolio: [Your portfolio](https://my-portfolio-1iza.vercel.app/)
+- LinkedIn: [krishnakkmrs](https://www.linkedin.com/in/krishnakkmrs/)
+- Portfolio: [Click Here](https://my-portfolio-1iza.vercel.app/)
 - Email: `krishna.devgen@gmail.com`
 
 ---
